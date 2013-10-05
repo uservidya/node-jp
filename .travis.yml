@@ -12,7 +12,7 @@ script:
 
 notifications:
   email:
-  - lewuathe@me.com
+  - crvidya@ymail.com
 
 env:
   global:
