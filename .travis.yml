@@ -10,9 +10,6 @@ before_script:
 script:
 - "npm test"
 
-notifications:
-  email:
-  - crvidya@ymail.com
 
 env:
   global:
